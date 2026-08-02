@@ -10,4 +10,4 @@ build: clean
 	./gradlew build -x test
 
 upgrade-wrapper:
-	./gradlew wrapper --gradle-version=9.3.1 --distribution-type=bin
+	./gradlew wrapper --gradle-version=9.6.1 --distribution-type=bin
